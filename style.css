@@ -1,2 +1,46 @@
 @charset "UTF-8";
 /* CSS document */
+<!doctype html>
+<html>
+<head>
+  <link rel="stylesheet" href="mystyle.css">
+<title>Lou Gherig</title>
+</head>
+  
+  <style>
+  
+/*internal CSS*/
+body {
+   width: 680px;
+   margin-left:auto;
+   margin-right:auto;
+   border-width:thick;
+   border-style:double;
+   border-color:purple;
+   padding:20px;
+  }
+    
+nav {
+   marging-bottom: 2em;
+   margin-top: 2em;
+   border-width:thin;
+   border-style:double;
+   border-color:purple;
+   
+}
+    
+header {
+   margin-left:auto;
+   margin-right:auto;
+   border-width:thick;
+   border-style:double;
+   border-color:purple;
+   padding:20px;
+  }
+ 
+   </style>  
+
+
+
+  
+</html>
