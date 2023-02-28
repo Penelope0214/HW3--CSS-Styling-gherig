@@ -16,7 +16,7 @@ body {
    margin-right:auto;
    border-width:thick;
    border-style:double;
-   border-color:purple;
+   border-color:red;
    padding:20px;
   }
     
@@ -25,7 +25,7 @@ nav {
    margin-top: 2em;
    border-width:thin;
    border-style:double;
-   border-color:purple;
+   border-color:red;
    
 }
     
