@@ -1,2 +1,61 @@
 @charset "UTF-8";
 /* CSS document */
+<style>
+  body {   
+   background-color:white;
+   width:500px;
+   margin-left:auto;
+   margin-right:auto;
+   border-width:thick;
+   border-style:solid;
+   border-color:black;
+   padding:40px;
+   }
+ 
+  h1 
+  
+   {
+   margin-left:auto;
+   margin-right:auto;
+   border-width:thick;
+   border-style:solid;
+   border-color:Black;
+   padding:4px;
+ 
+  }
+  
+  h2 {
+    
+   margin-left:auto;
+   margin-right:auto;
+   margin-top:auto;
+   margin-bottom:auto;
+   text-decoration-line:underline;
+   text-decoration-style:solid;
+   padding:10px;
+    
+    h3
+    { 
+   margin-left:100px;
+   margin-right:auto;
+   margin-top:auto;
+   margin-bottom:auto;
+   text-decoration-line:underline;
+   text-decoration-style:solid;
+   padding:10px;
+   font-size:16px;
+    }
+    
+    h1 
+  {
+color:white;
+  }
+  
+  
+  a[href]  {
+  float:left;
+  padding:10px;
+  }
+   
+ 
+  </style>
